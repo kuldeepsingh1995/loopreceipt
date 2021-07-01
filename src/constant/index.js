@@ -1,0 +1,1 @@
+export const BASE_URL = 'https://loop-staging-api.herokuapp.com';
